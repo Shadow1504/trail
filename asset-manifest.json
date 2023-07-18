@@ -1,0 +1,35 @@
+{
+  "files": {
+    "main.css": "/trail/static/css/main.d623916e.css",
+    "main.js": "/trail/static/js/main.8caf320d.js",
+    "static/js/787.d1774010.chunk.js": "/trail/static/js/787.d1774010.chunk.js",
+    "static/media/baked chocolate.jpg": "/trail/static/media/baked chocolate.9d22e5d51110b3e9ce83.jpg",
+    "static/media/chocococonut.jpg": "/trail/static/media/chocococonut.711e7e1d2c397e7045af.jpg",
+    "static/media/dark chocolate.jpg": "/trail/static/media/dark chocolate.04385ed9ed71c3f8af28.jpg",
+    "static/media/review one.jpg": "/trail/static/media/review one.57d05e8cc31286bbdbd2.jpg",
+    "static/media/darkchocolate.jpg": "/trail/static/media/darkchocolate.a49d1d54e6af350f2904.jpg",
+    "static/media/review three.jpg": "/trail/static/media/review three.edc0ed37420f16ddb987.jpg",
+    "static/media/nutschocolate.jpg": "/trail/static/media/nutschocolate.778b50613549ee0c34b8.jpg",
+    "static/media/Bittersweet.jpg": "/trail/static/media/Bittersweet.fd785b4490514ff2c938.jpg",
+    "static/media/Gift.jpg": "/trail/static/media/Gift.0f2bd2577f8b7d07b2eb.jpg",
+    "static/media/chunkychoco.jpg": "/trail/static/media/chunkychoco.e18b9dfc90741968b5e8.jpg",
+    "static/media/reviewthree.jpg": "/trail/static/media/reviewthree.124707a4e9bc9515096e.jpg",
+    "static/media/mousse.jpg": "/trail/static/media/mousse.3cdeab9ab08bfc87b945.jpg",
+    "static/media/workshop img1.jpg": "/trail/static/media/workshop img1.938e175b004e52437262.jpg",
+    "static/media/darkcaramel.jpg": "/trail/static/media/darkcaramel.5748810106260d015d97.jpg",
+    "static/media/Workshop img.png": "/trail/static/media/Workshop img.8998df8185f89eeafe84.png",
+    "static/media/review two.jpg": "/trail/static/media/review two.e4e206b9e7224df34e18.jpg",
+    "static/media/banner3.jpg": "/trail/static/media/banner3.23b8aa550fd6da47f88a.jpg",
+    "static/media/organic.png": "/trail/static/media/organic.622fd8d5938cf0be7bc9.png",
+    "static/media/gluten free.png": "/trail/static/media/gluten free.8833475096e20535f18e.png",
+    "static/media/leaves.png": "/trail/static/media/leaves.7f33d88c74d9f68f8290.png",
+    "index.html": "/trail/index.html",
+    "main.d623916e.css.map": "/trail/static/css/main.d623916e.css.map",
+    "main.8caf320d.js.map": "/trail/static/js/main.8caf320d.js.map",
+    "787.d1774010.chunk.js.map": "/trail/static/js/787.d1774010.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d623916e.css",
+    "static/js/main.8caf320d.js"
+  ]
+}
